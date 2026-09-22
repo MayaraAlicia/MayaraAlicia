@@ -1,5 +1,5 @@
-<h2> Hi, I'm Mayara Alicia! <img src="assets/hello" width="50"></h2>
-<img align='right' src="assets/img" width="230">
+<h2> Hi, I'm Mayara Alicia! <img src="assets/hello.gif" width="50"></h2>
+<img align='right' src="assets/eu.png" width="230">
 <p><em>
   Studying IT Management (GTI) at <a href="http://www.fatecassis.edu.br/">Fatec Assis</a>
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
