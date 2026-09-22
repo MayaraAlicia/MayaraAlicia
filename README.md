@@ -2,10 +2,10 @@
 <img align='right' src="assets/eu.png" width="230">
 <p><em>
   Studying IT Management (GTI) at <a href="http://www.fatecassis.edu.br/">Fatec Assis</a>
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  <img src="assets/gif" width="30">
   <br>
   IT Intern at <a href="https://www.educacao.sp.gov.br/">São Paulo State Department of Education</a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="assets/cat" width="30"> 
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-alicia-lima-cezareto-927783231/)
